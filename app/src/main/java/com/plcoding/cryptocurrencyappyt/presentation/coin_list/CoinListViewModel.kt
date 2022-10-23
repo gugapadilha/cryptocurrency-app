@@ -11,7 +11,6 @@ import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import javax.inject.Inject
 
-
 @HiltViewModel
 class CoinListViewModel @Inject constructor(
     private val getCoinsUseCase: GetCoinsUseCase
@@ -24,20 +23,21 @@ class CoinListViewModel @Inject constructor(
         getCoins()
     }
 
-    private fun getCoins(){
+    private fun getCoins() {
         getCoinsUseCase().onEach { result ->
-            when(result){
+            when (result) {
                 is Resource.Success -> {
                     _state.value = CoinListState(coins = result.data ?: emptyList())
                 }
                 is Resource.Error -> {
-                    _state.value = CoinListState(error = result.message ?: "An unexpected error ocurred")
+                    _state.value = CoinListState(
+                        error = result.message ?: "An unexpected error occured"
+                    )
                 }
                 is Resource.Loading -> {
                     _state.value = CoinListState(isLoading = true)
                 }
             }
-
         }.launchIn(viewModelScope)
     }
 }

@@ -12,7 +12,6 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.unit.dp
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.TeamMember
 
-
 @Composable
 fun TeamListItem(
     teamMember: TeamMember,
@@ -26,13 +25,11 @@ fun TeamListItem(
             text = teamMember.name,
             style = MaterialTheme.typography.h4
         )
-        Spacer(modifier = Modifier.height(4.dp) )
-
+        Spacer(modifier = Modifier.height(4.dp))
         Text(
             text = teamMember.position,
             style = MaterialTheme.typography.body2,
             fontStyle = FontStyle.Italic
         )
-        Spacer(modifier = Modifier.height(4.dp) )
     }
 }
