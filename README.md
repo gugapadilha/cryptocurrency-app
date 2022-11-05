@@ -20,7 +20,7 @@
   
    ### Imagens do projeto:
   
-![Screenshot_1](https://user-images.githubusercontent.com/79876042/200144618-3696857e-9c20-4fb7-8204-f2744b27fb12.png)
+![Screenshot_1](https://user-images.githubusercontent.com/79876042/200144680-a8356fad-bcfb-48ae-988f-674e14ef0668.png)
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/147498076-11ad7cbe-b315-45f6-8b03-2253ab101784.png)
   <br>
