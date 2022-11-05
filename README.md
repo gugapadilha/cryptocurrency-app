@@ -22,7 +22,7 @@
   
 ![Screenshot_1](https://user-images.githubusercontent.com/79876042/200144680-a8356fad-bcfb-48ae-988f-674e14ef0668.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/147498076-11ad7cbe-b315-45f6-8b03-2253ab101784.png)
+![Screenshot_2](https://user-images.githubusercontent.com/79876042/200146748-03d2a475-ef0d-495d-af82-df84307a9ba4.png)
   <br>
 
 
