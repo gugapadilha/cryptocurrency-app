@@ -17,6 +17,7 @@
   <strong>Tecnologias usadas: </strong>
    + Kotlin
    + Android 
+   + Jetpack Compose
   
    ### Imagens do projeto:
   
