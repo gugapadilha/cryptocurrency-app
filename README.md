@@ -13,7 +13,6 @@
   + Exibições;
   + Dados
   
-  
   <strong>Tecnologias usadas: </strong>
    + Kotlin
    + Android 
