@@ -1,24 +1,24 @@
-<h1> Projeto: Aplicativo Cripto Moedas<h1> 
+<h1> Project: Criptocurrency App<h1> 
 
   > Status: Finalizado ✔️
   
-  ### Aplicativo desenvolvido em Jetpack Compose com o intuito de trazer informações de criptomoedas em tempo real consumindo uma API, utilizando boas práticas, como MVVM e Clean Architecture!
+  ### Application developed in Jetpack Compose in order to bring real-time cryptocurrency information consuming an API, using good practices such as MVVM and Clean Architecture
   
   <br>
   
-  <strong>Principais caracteristicas do projeto: </strong>
-  + Listas;
-  + Validações;
-  + Detalhes;
-  + Exibições;
-  + Dados
+  <strong>Main Project Feature: </strong>
+  + Lists;
+  + Validations;
+  + Details;
+  + Exibitons stats;
+  + Data
   
-  <strong>Tecnologias usadas: </strong>
+  <strong>Technologies Used: </strong>
    + Kotlin
    + Android 
    + Jetpack Compose
   
-   ### Imagens do projeto:
+   ### Images Mobile Project:
   
 ![Screenshot_1](https://user-images.githubusercontent.com/79876042/200144680-a8356fad-bcfb-48ae-988f-674e14ef0668.png)
   <br>
